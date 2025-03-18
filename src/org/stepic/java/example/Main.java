@@ -5,6 +5,7 @@ public class Main {
        int i = 1;
        int у2 = 2;
        int c2 = 2;
+       int t = 7;
     }
 
 }
